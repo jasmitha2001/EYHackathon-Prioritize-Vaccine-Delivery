@@ -44,5 +44,4 @@
   * High density of population.
   * We have to give the vaccine to the covid workers.
   This leads to decline of transmission of covid virus.
-  
-## Work done till now
+
