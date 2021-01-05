@@ -21,7 +21,7 @@
   limiting the spread of COVID-19.
   
 ## Objective
-  creating a predictive model to help make
+  Creating a predictive model to help make
   informed decisions/insights around
   epidemiological and vaccine supply
   circumstances and priority group segments that
@@ -39,9 +39,9 @@
   * More covid cases based on the population in particular states.
   #Eg: States with same number of covid cases but differ in population we should 
   prefer the highly populated state among those.
-  * High count of old agers suffering from covid.
-  * People having diseases along with covid.
+  * High count of old aged people suffering from covid.
+  * People having health issues i.e comorbidities along with covid.
   * High density of population.
-  * We have to give the vaccine to the covid workers.
+  * Preference to frontline health workers
   This leads to decline of transmission of covid virus.
 
